@@ -57,3 +57,21 @@ Checkout View: Final step showing booking summary, price breakdown, and a confir
 ### Why User-Friendly Design Matters
 
 A simple, intuitive booking system allows users to search, select, and book properties without difficulty. It increases trust, reduces drop-offs, and improves the overall user experience—all of which are essential for any successful platform.
+
+
+### Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+
+### Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+###  Importance of identifying design properties of a mock up design
+Identifying the design properties of a mockup is critical for ensuring that the final implementation accurately reflects the designer's vision. It helps developers understand key visual details like layout, spacing, colours, typography, and component structure, reducing guesswork and speeding up the development process. This practice also promotes visual consistency throughout the application and enhances communication between designers and developers by establishing a common understanding of design expectations. It also facilitates early planning for responsiveness and aids in the delivery of a user interface that is both functional and visually consistent with modern UX standards.
